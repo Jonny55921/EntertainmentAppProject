@@ -1,0 +1,40 @@
+EntertainmentApp Project
+Overview
+The EntertainmentApp is a C++ console application designed to mimic the basic functionalities of a Netflix-like service. It allows users to navigate through different categories of entertainment, primarily focusing on movies. Users can add and delete movies and categories, search for specific movies and categories, and view all movies available.
+
+Features
+Add, delete, and search for movie categories.
+Add, delete, and search for movies within specific categories.
+View all movies across all categories.
+Movies are displayed with their title, release date, and category.
+Navigation through categories and movies using a user-friendly interface.
+Getting Started
+To run this application, you need a C++ environment capable of compiling and executing C++ code.
+
+Prerequisites
+A C++11 (or later) compatible compiler.
+Basic understanding of console-based applications.
+Installation
+Clone the repository or download the source code to your local machine. Compile the source files using your preferred C++ compiler.
+
+Running the Application
+After compiling the source code, run the executable to start the application. Follow the on-screen prompts to interact with the application.
+
+Usage
+The application provides a menu-based interface with the following options:
+
+Add Movie to Category: Add a new movie to an existing category.
+Search Movie: Search for a specific movie across all categories.
+Delete Movie: Remove a movie from a category.
+Print All Movies: Display all movies in alphabetical order.
+Delete Category and Movies: Remove an entire category along with all its movies.
+Search Category: Find a specific category and list all movies within it.
+Exit: Close the application.
+Contributing
+Contributions to the EntertainmentApp project are welcome. Please feel free to fork the repository and submit pull requests.
+
+License
+This project is open source and available under [LICENSE] (include link to your license here).
+
+Contact
+For any additional questions or comments, please contact [Your Name or Project Contact Information].
